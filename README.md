@@ -1,5 +1,10 @@
 # bikesharing
 
+
+https://public.tableau.com/app/profile/juan.camarillo/viz/Module14Challenge_16433332569030/NYCStory?publish=yes
+
+
+
 Users checkout time - The image shows that majority of the bike rides lasted 5 minutes.
 <img width="1440" alt="M14_1" src="https://user-images.githubusercontent.com/92793248/151472156-7bf68962-d47b-4cae-bfa1-ba5d7a486074.png">
 
