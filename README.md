@@ -1,6 +1,6 @@
 # bikesharing
 
-
+For a more in depth view of this analysis, checkout the Tableau link below
 https://public.tableau.com/app/profile/juan.camarillo/viz/Module14Challenge_16433332569030/NYCStory?publish=yes
 
 
